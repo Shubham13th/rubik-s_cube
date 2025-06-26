@@ -2,7 +2,6 @@ const RubiksCube = require('./rubik_cube');
 
 // Simulate getCubeSvg (stub for demonstration)
 function getCubeSvg(colorString) {
-    // In a real environment, this would render the SVG
     console.log('Cube SVG Color String:', colorString);
 }
 
